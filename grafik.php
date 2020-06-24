@@ -6,6 +6,7 @@ ini_set("log_errors", 1);
 ini_set("error_log", "php_logs.log");
 include('izgled.php');
 
+// GRAFIK !!!!
 
 if($red->status=="admin"){
 ?>

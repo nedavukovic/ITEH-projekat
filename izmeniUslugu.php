@@ -6,7 +6,7 @@ ini_set("error_log", "php_logs.log");
 include "konekcija.php";
 $mysqli = new mysqli($mysql_server, $mysql_user, $mysql_password, $mysql_db);
 if ($mysqli->connect_error) {
-    die("err");
+    die("err"); // AKO IMA ERROR SA BAZOM UGASI CELU APK
 } 
 
 switch ($_REQUEST ['columnId']){

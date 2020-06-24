@@ -8,6 +8,7 @@ include_once("izgled.php");
 
 ?>
 
+<!-- OVAJ FAJL SUZI ZA DODAVANJE USLUGE -->
 
 <body>
        
