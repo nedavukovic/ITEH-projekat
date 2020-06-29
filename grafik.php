@@ -33,7 +33,7 @@ if($red->status=="admin"){
 		textAlign: 'center',	
 	fontSize: 22},
 	  'width':800,
-      'height':500,//
+      'height':500,
 	  };
  var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
     chart.draw(data,  options);

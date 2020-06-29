@@ -3,7 +3,7 @@ include_once('izgled.php');
 
 ?>
 
-
+<!-- pocetna strana za administratorski deo -->
 <br>
 <div class="jumbotron" style=" background-color:rgba(50, 115, 220,0)">
   <h1 class="display-3">ZUB ordinacija</h1>

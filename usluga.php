@@ -67,7 +67,7 @@ if ($jsonobj->uskuge[0]->dostupnost=="da"){
 
 <?php
 }
-else{//ako nema dostupnog psa
+else{//ako nema dostupnog termina( :D)
 ?>	
 <legend><h2 style="text-align:center;color:red;">Ovaj termin nije dostupan!</h2></legend> 
 <?php
