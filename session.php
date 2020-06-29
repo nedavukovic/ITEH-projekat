@@ -25,7 +25,7 @@ if (isset($_SESSION['HTTP_USER_AGENT'])) {
 }
 
 $user_check=$_SESSION['login_user'];
-// SQL Query To Fetch Complete Information Of User
+
 $db->prikaziKorisnika($user_check);
 $row = $db->getResult()->fetch_object();
 $login_session =$row->korisnickoime;

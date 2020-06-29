@@ -25,7 +25,7 @@ if(isset($_POST["korisnickoime"]))
 	//return total count
 	$username_exist = mysqli_num_rows($db->getResult()); //total records
 	
-	//if value is more than 0, username is not available
+	//ako je vece od 0, korisnicko ime je zauzeto
 	if($username_exist) {
 		die('Korisničko ime je zauzeto!');
 		
