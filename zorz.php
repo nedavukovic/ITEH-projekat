@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-
+<!-- Kreira mini glareiju na pocetnoj strani -->
 
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="img/slika1.jpg" style="width:100%">

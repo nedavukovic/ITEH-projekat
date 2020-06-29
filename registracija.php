@@ -12,11 +12,11 @@ ini_set("error_log", "php_logs.log");
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <script>
-//PROVERA DOSTUPNOSTI KORISNICKOG IMENA AJAX
+// PRIMENA AJAXA ZA PROVERU DA LI JE UNETO KORISNIKO IME SLOBODNO
 $(document).ready(function() {
 	$("#korisnickoime").keyup(function (e) {
 	
-		//removes spaces from username
+	
 		$(this).val($(this).val().replace(/\s/g, ''));
 		
 		var korisnickoime = $(this).val();
@@ -34,7 +34,7 @@ $(document).ready(function() {
 $(document).ready(function() {
 	$("#sifra").keyup(function (e) {
 	
-		//removes spaces from username
+		
 		$(this).val($(this).val().replace(/\s/g, ''));
 		
 		var sifra = $(this).val();
