@@ -29,7 +29,7 @@ while ($red=$q->fetch_object()){
 }
 
 $niz_json = json_encode ($array);
-$niz_json = indent($niz_json);
+//$niz_json = indent($niz_json);
 print ($niz_json);
 } else {
 //ako nema rezultata u bazi

@@ -1172,3 +1172,25 @@ Stack trace:
 [16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
 [16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\zub\database.php on line 224
 [16-Jun-2020 19:47:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\zub\database.php on line 224
+[30-Jun-2020 00:56:49 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:56:49 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:56:52 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:56:52 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:57:18 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:57:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:59:25 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 00:59:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:01:24 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:01:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:02:46 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:02:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:03:12 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:03:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:04:44 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:04:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:04:46 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\analizaIznajmljivanja.php on line 9
+[30-Jun-2020 01:04:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\analizaIznajmljivanja.php on line 9
+[30-Jun-2020 01:05:45 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:05:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\database.php on line 225
+[30-Jun-2020 01:05:47 Europe/Berlin] PHP Warning:  include(jsonindent.php): failed to open stream: No such file or directory in C:\xampp\htdocs\iteh-master\analizaIznajmljivanja.php on line 9
+[30-Jun-2020 01:05:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'jsonindent.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\iteh-master\analizaIznajmljivanja.php on line 9
