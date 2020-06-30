@@ -6,7 +6,7 @@
 
 	if(isset($_POST['rezervisi'])){//ako je pritisnuto dugme rezervisi poziva funkciju web servisa za rezervisanje
 		$pas=$_GET["pasId"];
-	$url = "http://localhost/zub/rezervisi";
+	$url = "rezervisi";
 
 $data = array(
   'usluga' => $usluga,
